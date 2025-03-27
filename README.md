@@ -22,5 +22,12 @@ A React-based web application for healthcare audience targeting, featuring:
 1. Clone the repository
 2. Navigate to the project directory
 3. Install dependencies
-```bash
-npm install
+
+### Backend 
+1. Ensure python is installed
+2. Run the mock server
+
+### Running the Application
+1. Start the Python backend
+2. Start the React frontend
+3. Navigate to localhost 
